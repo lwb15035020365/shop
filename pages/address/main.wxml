@@ -1,0 +1,14 @@
+<view class="address">
+    <view class="left-content">
+        <view class="title">
+            <view class="default">默认</view>
+            <view class="address_content">江苏省苏州市</view>
+        </view>
+        <view class="userinfo">
+            <view class="user_name">李文博</view>
+            <view class="user_phone">12345789789</view>
+        </view>
+    </view>
+    <view class="btn edit">编辑</view>
+    <view class="btn del">删除</view>
+</view>
